@@ -1,0 +1,21 @@
+package com.example.accounts.dto;
+
+import com.fasterxml.jackson.annotation.JsonPropertyOrder;
+
+import lombok.Data;
+
+@Data
+@JsonPropertyOrder({
+	"name",
+	"email",
+	"mobileNumber",
+	"accountDto"
+})
+public class CustomerDto {
+	
+	
+	private String name;
+	private String email;
+	private String mobileNumber;
+	private AccountsDto accountsDto;
+}

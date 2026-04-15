@@ -1,0 +1,5 @@
+package com.example.accounts.audit;
+
+public class AuditAwareImpl {
+
+}
