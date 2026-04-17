@@ -2,6 +2,8 @@
 <section name="Workbench">
 	<section name="MavenProjectImportWizardPage">
 		<list key="rootDirectory">
+			<item value="D:\OneDrive - bsp.gov.ph\Documents\ECMS\microservices\section2\card"/>
+			<item value="D:\OneDrive - bsp.gov.ph\Documents\ECMS\microservices\section2\loan"/>
 			<item value="D:\OneDrive - bsp.gov.ph\Documents\ECMS\microservices\section2\accounts"/>
 		</list>
 		<list key="projectNameTemplate">
