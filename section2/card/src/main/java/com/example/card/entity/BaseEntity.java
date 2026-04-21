@@ -25,7 +25,7 @@ import lombok.ToString;
 @EntityListeners(AuditingEntityListener.class)
 public class BaseEntity {
 
-	@CreatedDate
+	@CreatedDate()
 	@Column(updatable = false)
 	@JsonFormat(pattern = "yyyy-MM-dd")
 	private LocalDateTime createdAt;
