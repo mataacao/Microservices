@@ -1,0 +1,17 @@
+spring:
+  config:
+    activate:
+      on-profile: "prod"
+
+
+build:
+  version: "1.0"
+
+accounts:
+  message: "Welcome to CrazyBank accounts related prod APIs"
+  contactDetails:
+    name: "Mang Juan - Product Owner"
+    email: juan@crazybank.com
+  onCallSupport:
+    - (453) 392-4829
+    - (236) 203-0384

@@ -1,0 +1,17 @@
+spring:
+  config:
+    activate:
+      on-profile: "qa"
+
+
+build:
+  version: "2.0"
+
+card:
+  message: "Welcome to CrazyBank card related QA APIs"
+  contactDetails:
+    name: "Smitha Ray - QA Lead"
+    email: smitha@crazybank.com
+  onCallSupport:
+    - (666) 265-3765
+    - (666) 734-8371

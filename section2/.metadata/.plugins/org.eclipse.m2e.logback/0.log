@@ -4472,3 +4472,17 @@ org.eclipse.core.runtime.CoreException: Could not resolve artifact com.google.co
 2026-04-21 15:56:45,432 [Worker-194: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
 2026-04-21 15:56:45,449 [Worker-194: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
 2026-04-21 15:56:45,459 [Worker-194: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\OneDrive - bsp.gov.ph\Documents\ECMS\microservices\section2\card\src\test\resources
+2026-04-21 16:58:05,374 [Worker-206: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2026-04-21 16:58:05,395 [Worker-206: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2026-04-21 16:58:05,399 [Worker-206: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\OneDrive - bsp.gov.ph\Documents\ECMS\microservices\section2\card\src\test\resources
+2026-04-21 16:59:05,980 [Worker-207: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2026-04-21 16:59:05,991 [Worker-207: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2026-04-21 16:59:05,994 [Worker-207: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\OneDrive - bsp.gov.ph\Documents\ECMS\microservices\section2\card\src\test\resources
+2026-04-22 08:03:52,910 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2026-04-22 08:04:13,140 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Updating Gradle version information cache failed. Using outdated cache.
+2026-04-23 08:12:22,099 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2026-04-23 08:12:42,416 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Updating Gradle version information cache failed. Using outdated cache.
+2026-04-24 08:11:21,374 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2026-04-24 08:11:41,874 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Updating Gradle version information cache failed. Using outdated cache.
+2026-04-27 08:28:30,158 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2026-04-27 08:28:32,950 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Updating Gradle version information cache failed. Using outdated cache.
