@@ -1,0 +1,11 @@
+# for ide(eclipse)
+/.metadata/
+
+
+# for spring boot only
+target/
+*.class
+*.jar
+*.war
+.env
+
